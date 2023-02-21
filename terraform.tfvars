@@ -1,0 +1,5 @@
+region = "eu-west-1"
+ami = "ami-089f338f3a2e69431"
+key_name = "ireland"
+instance_type = "t2.nano"
+name = "dev-server"
